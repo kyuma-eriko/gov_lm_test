@@ -6,8 +6,10 @@ summary: 新年のご挨拶も兼ねまして。
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: 7.jpg
   focal_point: Smart
   preview_only: false
+  alt_text: 見学会にて
+  caption: 見学会にて
 ---
 はじめまして。
